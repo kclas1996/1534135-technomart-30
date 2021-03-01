@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Ksenia Laskutova](https://up.htmlacademy.ru/htmlcss/30/user/1534135).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Григорьев](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
 
